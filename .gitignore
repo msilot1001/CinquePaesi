@@ -1,0 +1,6 @@
+.env
+.yarn
+dist
+logs
+.pnp.cjs
+.pnp.loader.mjs
